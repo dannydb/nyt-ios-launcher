@@ -5,6 +5,6 @@ Launch the NYT iOS app from the home screen without having to click into the new
 
 ## Install
 
-- Go to [http://dannydb.github.io/nyt-ios-launcher](http://dannydb.github.io/nyt-ios-launcher)
-- After the app launches, switch back to Safari
-- Tap the action button and add a bookmark to the homescreen
+1. Go to [http://dannydb.github.io/nyt-ios-launcher](http://dannydb.github.io/nyt-ios-launcher)
+1. After the app launches, switch back to Safari
+1. Tap the action button and add a bookmark to the homescreen
